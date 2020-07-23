@@ -1,0 +1,101 @@
+.signin{
+
+    background: #4ebdb2;
+    text-align: center;
+    padding: 16px;
+    border-radius: 10px;
+    color: white;
+    margin-bottom: 8px;
+   
+}
+
+.corner
+{
+	text-align:right;
+	float: right;
+}
+.blue
+{
+	background: #4ebdb2;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    font-size: 25px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    margin-bottom: 30px;
+}
+.facebook{
+
+    background: #3d6375;
+    text-align: center;
+    padding: 16px;
+    border-radius: 10px;
+    color: white;
+    margin-bottom: 12px; 
+}
+.lenC{
+	width: 20%;
+	margin-left: 1.5vw;
+	text-align: center;
+	color: grey;
+}
+.lenL{
+	width: 40%;
+	float: left;
+}
+.lenR{
+	width: 40%;
+	float: right;
+}
+.google{
+
+    background: #FF5722;
+    text-align: center;
+    padding: 13px;
+    font-size: 20px;
+    border-radius: 10px;
+    color: white;
+    margin-bottom: 30px;
+     
+}
+.left{
+	float: left;
+}
+.right{
+	float: right;
+}
+.tot
+{
+
+	height: 100%;
+    width: 30%;
+    margin: auto;
+}
+.overall
+{
+
+	width: 80%;
+    margin: auto;
+}
+.inp{
+    
+    width: 100%;
+    padding: 10px;
+    outline: none;
+    margin-bottom: 10px;
+    
+    
+}
+.epam{
+
+    background: #8BC34A;
+    text-align: center;
+    padding: 13px;
+    font-size: 20px;
+    border-radius: 10px;
+    color: white;
+    margin-bottom: 30px;
+    
+   
+}
